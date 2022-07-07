@@ -6,10 +6,10 @@ const Navbar = () => {
       <div className="navContainer">
         <span className="logo">Wixotel</span>
         <div className="navItems">
-          <button type="navButton" className="">
+          <button type="button" clasName="navButton">
             Register
           </button>
-          <button type="navButton" className="">
+          <button type="button" className="navButton">
             Login
           </button>
         </div>
