@@ -1,0 +1,11 @@
+.navbar {
+  height: 50px;
+  background-color: #eba14d;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.navContainer {
+  width: 100%;
+  max-width: 1024px;
+}
